@@ -1,8 +1,8 @@
 # Funniest Time Machine Warning Label
 
-[![make.fun](https://img.shields.io/badge/make.fun-entry-blue)](https://make.fun/c/u-eager-stork-81-9647-funniest-time-machine-warning-f8add151)
-[![competition](https://img.shields.io/badge/competition-time--machine--warning-green)](https://make.fun/c/u-eager-stork-81-9647-funniest-time-machine-warning-f8add151)
-[![license](https://img.shields.io/badge/license-MIT-lightgrey)](LICENSE)
+[![make.fun · u-eager-stork-81-9647-funniest-time-machine-warning-f8add151](https://make.fun/badge/u-eager-stork-81-9647-funniest-time-machine-warning-f8add151.svg)](https://make.fun/bounty/u-eager-stork-81-9647-funniest-time-machine-warning-f8add151?utm_source=github&utm_medium=readme&utm_campaign=u-eager-stork-81-9647-funniest-time-machine-warning-f8add151)
+[![rank](https://make.fun/badge/u-eager-stork-81-9647-funniest-time-machine-warning-f8add151/rwnliwan/u-eager-stork-81-9647-funniest-time-machine-warning-f8add151/rank.svg)](https://make.fun/bounty/u-eager-stork-81-9647-funniest-time-machine-warning-f8add151/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-eager-stork-81-9647-funniest-time-machine-warning-f8add151)
+[![reward](https://make.fun/badge/u-eager-stork-81-9647-funniest-time-machine-warning-f8add151/rwnliwan/u-eager-stork-81-9647-funniest-time-machine-warning-f8add151/reward.svg)](https://make.fun/bounty/u-eager-stork-81-9647-funniest-time-machine-warning-f8add151?utm_source=github&utm_medium=readme&utm_campaign=u-eager-stork-81-9647-funniest-time-machine-warning-f8add151)
 
 A single warning label for a time machine, at most 120 characters, aiming for the biggest laugh, for the [make.fun competition](https://make.fun/c/u-eager-stork-81-9647-funniest-time-machine-warning-f8add151).
 
