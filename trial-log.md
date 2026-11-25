@@ -14,3 +14,5 @@ Meet/don't meet yourself (107/167), grandfather paradox (96), warranty (46), len
 
 ## Status
 Built and verified locally; bundle + check results to be recorded below after the first bundle/check run.
+
+- v2 re-bundle 25 Nov (round 29): from original builder session (65 turns) + muse-usage row; 1 usage row attached; re-check 14/0; resubmit after v1 entries discarded server-side (5 made, 0 kept).
